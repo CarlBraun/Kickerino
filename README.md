@@ -48,7 +48,7 @@
 | **TAB Autocomplete** | Type `:` or `@` and press TAB to cycle through emotes/users |
 
 ### 🎨 Themes
-**Dark · White · Amoled (Midnight) · Glass**
+**Dark · White · Amoled (Midnight) · Pink**
 
 ### 🔐 Login
 **1-Button Browser Login** — opens a browser window, log in with your Kick account and you're done

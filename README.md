@@ -3,8 +3,8 @@
 > A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience.
 
 <p align="center">
-  <img src="https://i.imgur.com/R1S6vAY.png" width="49%">
-  <img src="https://i.imgur.com/cwfOtOH.png" width="49%">
+  <img src="https://imgur.com/RwUteEo.png" width="49%">
+  <img src="https://imgur.com/NDwyIAE.png" width="49%">
 </p>
 
 ---
@@ -58,15 +58,16 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/OjvoWxJ.png" width="45%" title="Chat">
-  <img src="https://i.imgur.com/lek1uTf.png" width="45%" title="Usercard">
+  <img src="https://imgur.com/XusxP3U.png" width="45%" title="Settings">
+  <img src="https://imgur.com/a7HuDD7.png" width="45%" title="Usercard">
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/bDW1JQZ.png" width="45%" title="Settings">
+  <img src="https://imgur.com/ZNOYFIS.png" width="45%" title="Mod Settings">
   <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Moderation">
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/DqTBU34.png" width="60%" title="Redwords & Mentions">
+  <img src="https://imgur.com/GwH2TfU.png" width="60%" title="Redwords & Mentions">
+  <img src="https://imgur.com/hwbCCga.png" width="45%" title="Login Setup">
 </p>
 
 ---

@@ -63,12 +63,14 @@
 </p>
 <p align="center">
   <img src="https://imgur.com/ZNOYFIS.png" width="45%" title="Mod Settings">
-  <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Moderation">
+  <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Updates">
 </p>
 <p align="center">
   <img src="https://imgur.com/GwH2TfU.png" width="40%" title="Redwords & Mentions">
   <img src="https://imgur.com/hwbCCga.png" width="40%" title="Login Setup">
+  <br>
   <img src="https://imgur.com/WXb1KDv.png" width="40%" title="If Follow needed">
+  <img src="image_3ed7c2.png" width="40%" title="Последний скрин">
   
 </p>
 

@@ -3,8 +3,8 @@
 > A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience.
 
 <p align="center">
-  <img src="screenshots/chat.png" width="49%">
-  <img src="screenshots/usercard.png" width="49%">
+  <img src="https://i.imgur.com/R1S6vAY.png" width="49%">
+  <img src="https://i.imgur.com/cwfOtOH.png" width="49%">
 </p>
 
 ---
@@ -58,12 +58,15 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/chat_dark.png" width="45%" title="Dark theme">
-  <img src="screenshots/settings.png" width="45%" title="Settings">
+  <img src="https://i.imgur.com/OjvoWxJ.png" width="45%" title="Chat">
+  <img src="https://i.imgur.com/lek1uTf.png" width="45%" title="Usercard">
 </p>
 <p align="center">
-  <img src="screenshots/moderation.png" width="45%" title="Moderation tab">
-  <img src="screenshots/highlights.png" width="45%" title="Redwords & Mentions">
+  <img src="https://i.imgur.com/bDW1JQZ.png" width="45%" title="Settings">
+  <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Moderation">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/DqTBU34.png" width="60%" title="Redwords & Mentions">
 </p>
 
 ---
@@ -72,7 +75,7 @@
 
 1. Download `Kickerino.exe` from [Releases](https://github.com/CarlBraun/Kickerino/releases/latest)
 2. Run it — no installation needed
-3. Click **Login via Kick OAuth2** and sign in
+3. Click **Login** and sign in via browser
 4. Paste any Kick streamer link or type a nickname to open their chat
 
 ---

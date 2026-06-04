@@ -3,8 +3,8 @@
 > A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience.
 
 <p align="center">
-  <img src="https://imgur.com/RwUteEo.png" width="49%">
-  <img src="https://imgur.com/NDwyIAE.png" width="49%">
+  <img src="https://imgur.com/tIbjvFK.png" width="49%">
+  <img src="https://imgur.com/gJMAKoG.png" width="49%">
 </p>
 
 ---

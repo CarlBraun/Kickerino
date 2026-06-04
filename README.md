@@ -66,8 +66,8 @@
   <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Moderation">
 </p>
 <p align="center">
-  <img src="https://imgur.com/GwH2TfU.png" width="60%" title="Redwords & Mentions">
-  <img src="https://imgur.com/hwbCCga.png" width="45%" title="Login Setup">
+  <img src="https://imgur.com/GwH2TfU.png" width="20%" title="Redwords & Mentions">
+  <img src="https://imgur.com/hwbCCga.png" width="20%" title="Login Setup">
 </p>
 
 ---

@@ -59,7 +59,7 @@
 
 | | |
 | :---: | :---: |
-| <img src="https://imgur.com/XusxP3U.png" width="400"> | <img src="https://imgur.com/a7HuDD7.png" width="400"> |
+| <img src="https://imgur.com/XusxP3U.png" width="400"> | <img src="https://imgur.com/4DfJ7AV.png" width="400"> |
 | **Settings** | **Usercard** |
 | <img src="https://imgur.com/ZNOYFIS.png" width="400"> | <img src="https://i.imgur.com/gqKsirY.png" width="400"> |
 | **Mod Settings** | **Updates** |

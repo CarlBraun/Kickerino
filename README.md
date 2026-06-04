@@ -57,26 +57,16 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://imgur.com/XusxP3U.png" width="45%" title="Settings">
-  <img src="https://imgur.com/a7HuDD7.png" width="45%" title="Usercard">
-</p>
-<p align="center">
-  <img src="https://imgur.com/ZNOYFIS.png" width="45%" title="Mod Settings">
-  <img src="https://i.imgur.com/gqKsirY.png" width="45%" title="Updates">
-</p>
-<div align="center">
-
 | | |
 | :---: | :---: |
+| <img src="https://imgur.com/XusxP3U.png" width="400"> | <img src="https://imgur.com/a7HuDD7.png" width="400"> |
+| **Settings** | **Usercard** |
+| <img src="https://imgur.com/ZNOYFIS.png" width="400"> | <img src="https://i.imgur.com/gqKsirY.png" width="400"> |
+| **Mod Settings** | **Updates** |
 | <img src="https://imgur.com/GwH2TfU.png" width="400"> | <img src="https://imgur.com/hwbCCga.png" width="400"> |
 | **Redwords & Mentions** | **Login Setup** |
 | <img src="https://imgur.com/WXb1KDv.png" width="400"> | <img src="https://i.imgur.com/имя_файла.png" width="400"> |
 | **If Follow needed** | **Последний скрин** |
-
-</div>
-  
-</p>
 
 ---
 

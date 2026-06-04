@@ -65,8 +65,8 @@
 | **Mod Settings** | **Updates** |
 | <img src="https://imgur.com/GwH2TfU.png" width="400"> | <img src="https://imgur.com/hwbCCga.png" width="400"> |
 | **Redwords & Mentions** | **Login Setup** |
-| <img src="https://imgur.com/WXb1KDv.png" width="400"> | <img src="https://i.imgur.com/имя_файла.png" width="400"> |
-| **If Follow needed** | **Последний скрин** |
+| <img src="https://imgur.com/WXb1KDv.png" width="400"> | <img src="https://imgur.com/fEOSmdu.png" width="400"> |
+| **If Follow needed** | **Three Dots Menu** |
 
 ---
 

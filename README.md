@@ -61,7 +61,7 @@
 | :---: | :---: |
 | <img src="https://imgur.com/xMclHMS.png" width="400"> | <img src="https://imgur.com/4DfJ7AV.png" width="400"> |
 | **Settings** | **Usercard** |
-| <img src="https://imgur.com/EyAvGcN.png" width="400"> | <img src="https://i.imgur.com/gqKsirY.png" width="400"> |
+| <img src="https://imgur.com/EyAvGcN.png" width="400"> | <img src="https://imgur.com/Iay5Q4u.png" width="400"> |
 | **Mod Settings** | **Updates** |
 | <img src="https://imgur.com/GwH2TfU.png" width="400"> | <img src="https://imgur.com/TO7hoc6.png" width="400"> |
 | **Redwords & Mentions** | **Login Setup** |

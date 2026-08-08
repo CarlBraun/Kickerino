@@ -17,7 +17,7 @@
   </a>
 </p>
 
-> Windows, Linux, Mac OS · No installation needed · Auto-updates on launch
+> Windows, Linux · No installation needed · Auto-updates on launch
 
 ---
 

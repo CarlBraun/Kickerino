@@ -60,13 +60,13 @@
 
 | | |
 | :---: | :---: |
-| <img src="https://imgur.com/xMclHMS.png" width="400"> | <img src="https://imgur.com/4DfJ7AV.png" width="400"> |
+| <img src="https://i.imgur.com/Unuyy3J.png" width="400"> | <img src="https://i.imgur.com/Y7bhSEW.png" width="400"> |
 | **Settings** | **Usercard** |
-| <img src="https://imgur.com/EyAvGcN.png" width="400"> | <img src="https://imgur.com/Iay5Q4u.png" width="400"> |
+| <img src="https://i.imgur.com/XxPeAtB.png" width="400"> | <img src="https://i.imgur.com/2LJQMZZ.png" width="400"> |
 | **Mod Settings** | **Updates** |
-| <img src="https://imgur.com/GwH2TfU.png" width="400"> | <img src="https://imgur.com/TO7hoc6.png" width="400"> |
+| <img src="https://i.imgur.com/S3Buk80.png" width="400"> | <img src="https://i.imgur.com/sROdCAa.png" width="400"> |
 | **Redwords & Mentions** | **Login Setup** |
-| <img src="https://imgur.com/WXb1KDv.png" width="400"> | <img src="https://imgur.com/fEOSmdu.png" width="400"> |
+| <img src="https://imgur.com/WXb1KDv.png" width="400"> | <img src="https://i.imgur.com/ToTzAxE.png" width="400"> |
 | **If Follow needed** | **Three Dots Menu** |
 
 ---

@@ -38,6 +38,7 @@
 |---|---|
 | **Easy Moderation** | Ban, Mute, Timeout directly from any message |
 | **Custom Mute Duration** | Set exactly how long to mute (e.g. 30 min) |
+| **Custom Mod Buttons** | Set exactly what you want (ban/unban/timeout etc.) |
 | **Usercards** | Click any username — see profile, sub status, message history |
 | **Redwords List** | Auto-highlight keywords, import from MoKick JSON |
 

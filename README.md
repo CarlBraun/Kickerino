@@ -72,11 +72,15 @@
 ---
 
 ## 🚀 Getting Started
-
+Windows:
 1. Download `Kickerino.zip` from [Releases](https://github.com/CarlBraun/Kickerino/releases/latest)
-2. Unzip & Run `Kickerino.exe` — no installation needed
+2. Unzip Kickerino folder & Run `Kickerino.exe` — no installation needed
 3. Click **Login** and sign in via browser
 4. Paste any Kick streamer link or type a nickname to open their chat
+
+Linux : 
+1. Download `Kickerino_x86.AppImage`
+2. Launch the app
 
 ---
 

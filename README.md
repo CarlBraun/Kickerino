@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Download-Latest%20Release-53fc18?style=for-the-badge&logo=windows&logoColor=black" alt="Download">
   </a>
 </p>
+
 > Windows, Linux · No installation needed · Auto-updates on launch
 
 > For Android: https://github.com/CarlBraun/Kickerino_Android

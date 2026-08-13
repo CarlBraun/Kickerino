@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/ESP30YC.png" width="28"> Kickerino — Advanced Kick.com Chat Client
 
-> A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience.
+> A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience. For Android: https://github.com/CarlBraun/Kickerino_Android
 
 <p align="center">
   <img src="https://i.imgur.com/EKC9OVC.png" width="49%">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Download-Latest%20Release-53fc18?style=for-the-badge&logo=windows&logoColor=black" alt="Download">
   </a>
 </p>
-
+For Android: https://github.com/CarlBraun/Kickerino_Android
 > Windows, Linux · No installation needed · Auto-updates on launch
 
 ---

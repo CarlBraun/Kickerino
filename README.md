@@ -18,7 +18,7 @@
 </p>
 > Windows, Linux · No installation needed · Auto-updates on launch
 
-## For Android: https://github.com/CarlBraun/Kickerino_Android
+> For Android: https://github.com/CarlBraun/Kickerino_Android
 
 
 ---

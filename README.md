@@ -1,5 +1,7 @@
 # <img src="https://i.imgur.com/jecG7EJ.png" width="28"> Kickerino — Advanced Kick.com Chat Client
 
+## THE ONLY OFFICIAL SOURCE OF KICKERINO: https://kickerino.app/ | DOMAIN .com is a scam
+
 > A feature-rich desktop chat client for [Kick.com](https://kick.com), built for streamers, moderators and viewers who want more control over their chat experience. For Android: https://github.com/CarlBraun/Kickerino_Android
 
 <p align="center">

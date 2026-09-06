@@ -65,7 +65,7 @@ For Android: https://github.com/CarlBraun/Kickerino_Android
 
 | | |
 | :---: | :---: |
-| <img src="https://i.imgur.com/Unuyy3J.png" width="400"> | <img src="https://i.imgur.com/Y7bhSEW.png" width="400"> |
+| <img src="https://i.imgur.com/YRaXqPw.png" width="400"> | <img src="https://i.imgur.com/Y7bhSEW.png" width="400"> |
 | **Settings** | **Usercard** |
 | <img src="https://i.imgur.com/XxPeAtB.png" width="400"> | <img src="https://i.imgur.com/2LJQMZZ.png" width="400"> |
 | **Mod Settings** | **Updates** |
